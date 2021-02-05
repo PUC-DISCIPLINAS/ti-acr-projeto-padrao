@@ -1,7 +1,7 @@
-# Lista dos processos de negócio do sistema
+# Lista dos leiautes de interface
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* interface-1-login.md - Tela de login.
+* interface-2-home.md - Tela de início.
+* interface-3-cadastro.md - Tela de cadastro de usuário.
 
 

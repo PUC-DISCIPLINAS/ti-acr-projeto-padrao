@@ -4,6 +4,6 @@ Liste os artefatos produzidos, com suas localizaçãoes e descrição do conteú
 
 
 * `/atas` - Pasta de Atas de reunião.
-* `/processos` - Pasta com os modelos de processo de negócio.
-* `/dados ` - Pasta com os modelos de dados.
-
+* `/interfaces` - Pasta com as especificações de leiautes das interfaces.
+* `/usecases` - Pasta com o detalhamento dos casos de uso.
+* `/visao` - Pasta com o documento de visão do sistema.
